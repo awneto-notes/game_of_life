@@ -7,7 +7,7 @@ The game follows the rules of the Game of Life:
 - A cell remains active if it has two or three active neighboring cells and is deactivated otherwise.
 
 #### Instructions:
-1. Run the program.
+1. Run the program (jogo_da_vida.py).
 2. Click cells to turn them on or off.
 3. Observe the evolution of the simulation based on the rules of the Game of Life.
 
