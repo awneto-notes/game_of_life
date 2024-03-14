@@ -1,6 +1,6 @@
 ### Conway's Game of Life Simulation
 
-This program implements a version of John Conway's Game of Life using Pygame. The simulation allows users to interact with the grid by activating and deactivating cells with the mouse.
+This program implements a version of John Conway's Game of Life using Pygame. The simulation allows users to interact with the grid by activating and deactivating cells with the mouse. This script was almost entirely written using GPT 3.5.
 
 The game follows the rules of the Game of Life:
 - A cell is activated if it has exactly three active neighboring cells.
